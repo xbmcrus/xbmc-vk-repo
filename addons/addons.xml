@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="xbmc-vk.svoka.com" name="VK-xbmc" version="0.4.1" provider-name="shchvova">
+<addon id="xbmc-vk.svoka.com" name="VK-xbmc" version="0.5.0" provider-name="shchvova">
 	<requires>
 		<import addon="xbmc.python" version="1.0"/>
 	</requires>
