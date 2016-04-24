@@ -1,0 +1,1 @@
+VKontakte addon for XBMC repository for autoupdates and fun
